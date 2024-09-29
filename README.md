@@ -76,7 +76,7 @@ df.iloc[100:101,:]
 ### Preprocessing:
 ![image](https://github.com/user-attachments/assets/64269a93-6aae-4e87-b9d4-f61e7d443e0d)
 
-### Classifictaion: 
+### Classification: 
 ![image](https://github.com/user-attachments/assets/73e66ae0-1613-401e-b160-6187257c099d)
 
 ### Prediction:
